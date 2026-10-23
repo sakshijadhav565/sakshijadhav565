@@ -40,27 +40,39 @@ me = Sakshi()
 
 | Project | Description |
 |---|---|
-| | [Hindi Prosodic Boundary Prediction — Dataset](https://github.com/sakshijadhav565/Hindi-Prosodic-Boundary-Prediction-Children-Texts-Code) | Dataset for research on text-based prosodic boundary prediction in Hindi children's stories |
+| [Hindi Prosodic Boundary Prediction — Dataset](https://github.com/sakshijadhav565/Hindi-Prosodic-Boundary-Prediction-Children-Texts-Code) | Dataset for research on text-based prosodic boundary prediction in Hindi children's stories |
 | [Forgetting-Aware PEFT](https://github.com/sakshijadhav565/forgetting-aware-peft) | Research experiments on parameter-efficient fine-tuning |
 | [Sehat Saathi](https://github.com/sakshijadhav565/sehat-connect-app) | Healthcare-focused application |
 | [Language Markup Tool — Hindi](https://github.com/sakshijadhav565/LanguageMarkupTool-Hindi) | Hindi language annotation and tooling |
 
 ## ⚡ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-6A5ACD?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-008B8B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshijadhav565&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sakshijadhav565&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshijadhav565&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshijadhav565&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sakshijadhav565&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
 ### 🌱 Always learning. Always experimenting. Always building.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshijadhav565)
+<p align="center">
+  <a href="https://github.com/sakshijadhav565">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
+  </a>
+</p>
