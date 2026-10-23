@@ -40,7 +40,7 @@ me = Sakshi()
 
 | Project | Description |
 |---|---|
-| [Hindi Prosodic Boundary Prediction](https://github.com/sakshijadhav565/Hindi-Prosodic-Boundary-Prediction-Children-Texts-Code) | NLP and interpretable ML for Hindi children's stories |
+| | [Hindi Prosodic Boundary Prediction — Dataset](https://github.com/sakshijadhav565/Hindi-Prosodic-Boundary-Prediction-Children-Texts-Code) | Dataset for research on text-based prosodic boundary prediction in Hindi children's stories |
 | [Forgetting-Aware PEFT](https://github.com/sakshijadhav565/forgetting-aware-peft) | Research experiments on parameter-efficient fine-tuning |
 | [Sehat Saathi](https://github.com/sakshijadhav565/sehat-connect-app) | Healthcare-focused application |
 | [Language Markup Tool — Hindi](https://github.com/sakshijadhav565/LanguageMarkupTool-Hindi) | Hindi language annotation and tooling |
