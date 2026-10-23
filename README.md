@@ -19,9 +19,9 @@ class Sakshi:
             "Computational Biology"
         ]
         self.current_focus = [
-            "Hindi Prosodic Boundary Prediction",
             "Stochastic Biochemical Systems",
-            "Parameter-Efficient Fine-Tuning"
+            "Parameter-Efficient Fine-Tuning",
+            "Natural Language Processing"
         ]
 
     def goal(self):
@@ -52,19 +52,7 @@ me = Sakshi()
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge" alt="NLP" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sakshijadhav565&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshijadhav565&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshijadhav565&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
